@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viniciusrx570
+- 👋 Hi, I’m @ViniciusRx570
 - 👀 I’m interested in back end
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
