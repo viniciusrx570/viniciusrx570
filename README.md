@@ -1,7 +1,7 @@
 ### Iae, Vinícius aqui! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusrx570/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrx570&show_icons=true&theme=cobalt)]</br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrx570&show_icons=true&theme=cobalt)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ### Tecnologias que eu utilizo
